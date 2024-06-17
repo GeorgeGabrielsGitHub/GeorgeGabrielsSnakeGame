@@ -3,4 +3,5 @@ My name is George Gabriels. I am a software engineer for South Africa. This GitH
 George Hilton Gabriels
 17 June 2024
 
-This is a repo that I made for a C++ implementation of Snake. The development is done on Windows 10
+This is a repo that I made for a C++ implementation of Snake. 
+The development is done on Windows 10 on VSCode
